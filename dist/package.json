@@ -1,0 +1,42 @@
+{
+  "name": "xianyu-ai",
+  "version": "2.0.0",
+  "display_name": "闲鱼 AI 商品发布助手",
+  "description": "自动生成符合流量规则的商品文案，支持爆款文案和图片学习",
+  "author": "",
+  "license": "MIT",
+  "homepage": "",
+  "platforms": {
+    "opencode": {
+      "path": ".opencode/skills/xianyu-ai",
+      "skill_file": "SKILL.md"
+    },
+    "claude": {
+      "path": ".claude/skills/xianyu-ai",
+      "skill_file": "SKILL.md"
+    },
+    "openclaw": {
+      "path": "skills/xianyu-ai",
+      "skill_file": "SKILL.md"
+    }
+  },
+  "ai_providers": [
+    "minimax",
+    "deepseek",
+    "openai",
+    "claude"
+  ],
+  "features": [
+    "ai_copy_generation",
+    "hot_copy_learning",
+    "image_style_learning",
+    "traffic_rules_validation",
+    "idle_fish_publishing",
+    "feedback_iteration"
+  ],
+  "dependencies": {
+    "python": ">=3.8",
+    "openai": ">=1.0.0",
+    "requests": ">=2.28.0"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "version": "2.0",
+  "api": {
+    "provider": "minimax",
+    "model": "MiniMax-M2-Stable",
+    "base_url": "https://api.minimax.chat/v1",
+    "temperature": 0.7,
+    "max_tokens": 1000,
+    "key": "sk-api-H1c_nKDmLYTV5TP30PNEfiEzkAoEpKZr7M7AQKkeWE7KcyY3SwAHPSyrh2rhrIHVLTDY-ju3-drJVnQmbDj4L47aIJ6gtoKnIvBEA0Dc4V24_zXZHabZ9vk"
+  },
+  "library": {
+    "path": "data/copy_library.json",
+    "auto_backup": true
+  },
+  "images": {
+    "storage_dir": "data/images",
+    "max_size_mb": 5,
+    "supported_formats": [".jpg", ".jpeg", ".png", ".webp"]
+  },
+  "traffic_rules": {
+    "enabled": true,
+    "path": "scripts/traffic_rules.json"
+  },
+  "idle": {
+    "app_key": "",
+    "app_secret": "",
+    "sandbox": true
+  },
+  "output": {
+    "format": "json",
+    "show_warnings": true
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "version": "2.0",
+  "updated": "2026-03-24T14:40:39.059897",
+  "categories": {
+    "数码相机": {
+      "count": 1,
+      "samples": [
+        {
+          "id": "1241eae4",
+          "title": "苏州理光gr3/gr3x出租！配件齐全！包邮！学生党出租独家免费独家全套教程！十分钟玩转理光",
+          "description": "❤️为什么都选我？\n1️⃣拒绝❌天价高额定损赔偿！无任何隐藏收费，官方明码定价不赚取一分差价，没有维修延误费\n2️⃣拒绝❌恶意提灯定损！出库前在4k监控下全方位检测机器功能，收到后在无死角监控下拆箱！！！\n3️⃣拒绝❌无需签订电子合同，芝麻信誉高于600分即可免押金！不用提供sfz照片！（学生党家人朋友同意可以代审核）\n4️⃣拒绝❌隐藏收费，所有费用公开透明，只赚租金！中国人不骗中国人没有任何套路，请各位宝子放心大胆用！\n\n❤️我的最大优势\n女大租赁\n全网独家✅ ，早9到凌晨2点在线不懂随时找我沟通哦～\n\n❤️宝子们可能遇到的问题\n\n1️⃣租期怎么算？\n收到之后的第二天才开始算租用时间 相当于送半天！\n2️⃣怎么免押金\n芝麻信誉满600分即可免押金，我会发送免押码给你\n3️⃣邮费怎么算？\n包邮！（包单程），寄出邮费需自理（顺丰），快递无需保价跟别家对比节省50元运费！寄出前有视频证明是好的坏了算我的！大家放心发就好啦～\n4️⃣具体价格表是什么？\n 后续续租30/天 长租有优惠幅度\n\n无任何隐藏收费，大家可放心食用，希望宝子们可以把每一个尽兴的瞬间变成永恒，这是我做相机租赁的初心～",
+          "features": [
+            "免押金",
+            "包邮",
+            "学生党",
+            "无隐藏收费",
+            "女大租赁",
+            "透明定价",
+            "无定损赔偿"
+          ],
+          "source": "manual",
+          "likes": 0,
+          "effect_score": 0.5,
+          "created": "2026-03-24T14:40:39.059897",
+          "images": [
+            {
+              "id": "img_001",
+              "filename": "1.jpg",
+              "path": "data/images/1.jpg",
+              "order": 1,
+              "type": "product_shot",
+              "description": "理光GR3机身海报"
+            },
+            {
+              "id": "img_002",
+              "filename": "2.jpg",
+              "path": "data/images/2.jpg",
+              "order": 2,
+              "type": "product_shot",
+              "description": "理光GR3相机+配件展示"
+            },
+            {
+              "id": "img_003",
+              "filename": "3.jpg",
+              "path": "data/images/3.jpg",
+              "order": 3,
+              "type": "sample_photo",
+              "description": "理光GR3样片-街头摄影"
+            },
+            {
+              "id": "img_004",
+              "filename": "4.jpg",
+              "path": "data/images/4.jpg",
+              "order": 4,
+              "type": "sample_photo",
+              "description": "理光GR3样片-人像"
+            },
+            {
+              "id": "img_005",
+              "filename": "5.jpg",
+              "path": "data/images/5.jpg",
+              "order": 5,
+              "type": "sample_photo",
+              "description": "理光GR3样片-风景"
+            }
+          ],
+          "image_features": {
+            "product_shot": {
+              "style": "海报设计",
+              "angle": "正面展示",
+              "background": "简约背景",
+              "lighting": "专业布光",
+              "composition": "居中",
+              "quality": "高清"
+            },
+            "product_with_accessories": {
+              "style": "平铺展示",
+              "angle": "俯拍",
+              "background": "浅色背景",
+              "lighting": "自然光",
+              "composition": "居中",
+              "quality": "高清"
+            },
+            "sample_photo": {
+              "style": "实拍样片",
+              "subject": "街头/人像/风景",
+              "description": "展示相机拍摄效果"
+            }
+          }
+        }
+      ]
+    }
+  }
+}
